@@ -12,7 +12,7 @@ Este proyecto crea una aplicación con Java, Spring Boot y MySQL que proporciona
 ## Ejecución
 
 Para la ejecución de esta aplicación, puedes hacerlo de dos maneras diferentes:
-- Clona el repositorio desde la URL: 
+- Clona el repositorio desde la URL: https://github.com/cristaker/prueba-doublev.git
 - Luego de haber clonado el repositorio, ejecuta el siguiente comando: `docker-compose up --build` en la consola de comandos, asegurate de ubicarte en la raiz del proyecto clonado.
 - También puedes levantar la aplicación desde cualquier entorno de desarrollo. Sin embargo, ten en cuenta que, para una ejecución correcta en este caso, debes tener instalado MySQL 8.4 en la máquina local, tenerlo en ejecución y haber creado la base de datos `doublevdb`.
 
